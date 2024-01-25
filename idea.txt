@@ -1,0 +1,7 @@
+unesi broj inputa
+omogući '+' dugme da dodaš novi red inputa za svaki korak u algoritmu
+omogući finish dugme i dodaj crveni border oko reda u kojem je algoritam završen
+
+opciono:
+red u kojem je algoritam kompletiran pretvori u div
+generiši sekvencu u datom opsegu nasumično
