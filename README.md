@@ -8,7 +8,7 @@ I think Algo Practice will help you to visualize each pass of algorithm.  I buil
 
 ## Getting Started
 
-Algo Practice is hosted on algo-practice.dbmilos.com. You can also clone this repo and run it locally (on your computer). 
+Algo Practice is hosted on https://algo-practice.dbmilos.com. You can also clone this repo and run it locally (on your computer). 
 
 ## How to use?
 
