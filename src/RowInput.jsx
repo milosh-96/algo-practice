@@ -4,7 +4,7 @@ const RowInput = () => {
    
     return (
         <Fragment>
-            <input type='number'></input>
+            <input min="-999" max="999" type='number'></input>
         </Fragment>
     )
 }
